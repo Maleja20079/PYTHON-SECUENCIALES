@@ -1,0 +1,6 @@
+a = float(input("Digite el primer número: "))
+b = float(input("Digite el segundo número: "))
+
+modulo = a % b
+
+print("El residuo de el número es:", modulo)
